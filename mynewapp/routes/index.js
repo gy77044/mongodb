@@ -13,6 +13,7 @@ router.get('/create', async function (req, res) {
     name: "gautam",
     age: 27
   })
+  
   res.send(createduser);
 });
 
