@@ -27,6 +27,7 @@ router.get("/", function (req, res) {
 //   res.send(oneuser)
 // })
 
+
 // router.get("/delete", async function (req, res) {
 //   const deleteduser = await userModel.findOneAndDelete({
 //     username: "gautam"
